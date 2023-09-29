@@ -5,6 +5,6 @@ This project is for a mobile device programming course. It is focused on underst
 
 ![Example Image](https://github.com/sifaqes/bootstrap/blob/main/2.0%20Escritorio.png)
 
-![Example Image](https://github.com/sifaqes/bootstrap/blob/main/Ejercicio_2.0.html)
+![Example Image](https://github.com/sifaqes/bootstrap/blob/main/2.0%20mobile.png)
 
-![Example Image](https://github.com/sifaqes/bootstrap/blob/main/Ejercicio_2.1.html)
+![Example Image](https://github.com/sifaqes/bootstrap/blob/main/2.0%20tablet.png)
