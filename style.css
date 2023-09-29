@@ -1,0 +1,61 @@
+/* Movile */
+
+@media (min-width: 0px) and (max-width: 575px) {
+    .header {
+        background-color: orange;
+    }
+    .num-1 {
+        text-align: left;
+        background-color: red;
+    }
+    .num-2 {
+        text-align: center;
+        background-color: aqua;
+    }
+    .num-3 {
+        text-align: right;
+        background-color: red;
+    }
+}
+
+
+/* tablett */
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .header {
+        background-color: aqua;
+    }
+    .num-1 {
+        text-align: left;
+        background-color: red;
+    }
+    .num-2 {
+        text-align: right;
+        background-color: red;
+    }
+    .num-3 {
+        text-align: center;
+        background-color: green;
+    }
+}
+
+
+/* Escritorio */
+
+@media (min-width: 768px) {
+    .header {
+        background-color: green;
+    }
+    .num-1 {
+        text-align: center;
+        background-color: red;
+    }
+    .num-2 {
+        text-align: center;
+        background-color: red;
+    }
+    .num-3 {
+        text-align: center;
+        background-color: red;
+    }
+}
